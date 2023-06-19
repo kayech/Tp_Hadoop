@@ -1,0 +1,7 @@
+[debug] > Exec(package, None, None)
+[debug] Evaluating tasks: Compile / package
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\kaych\IdeaProjects\TP_Hadoop\target\scala-2.12\classes ...
+[info] done compiling
+[success] Total time: 10 s, completed Jun 19, 2023, 6:50:48 PM
+[debug] > Exec(idea-shell, None, None)

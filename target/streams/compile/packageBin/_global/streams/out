@@ -1,0 +1,13 @@
+[debug] Packaging C:\Users\kaych\IdeaProjects\TP_Hadoop\target\scala-2.12\tp_hadoop_2.12-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	Jobs
+[debug] 	  C:\Users\kaych\IdeaProjects\TP_Hadoop\target\scala-2.12\classes\Jobs
+[debug] 	Jobs\myfirstobject$$typecreator6$1.class
+[debug] 	  C:\Users\kaych\IdeaProjects\TP_Hadoop\target\scala-2.12\classes\Jobs\myfirstobject$$typecreator6$1.class
+[debug] 	Jobs\myfirstobject$.class
+[debug] 	  C:\Users\kaych\IdeaProjects\TP_Hadoop\target\scala-2.12\classes\Jobs\myfirstobject$.class
+[debug] 	Jobs\myfirstobject$delayedInit$body.class
+[debug] 	  C:\Users\kaych\IdeaProjects\TP_Hadoop\target\scala-2.12\classes\Jobs\myfirstobject$delayedInit$body.class
+[debug] 	Jobs\myfirstobject.class
+[debug] 	  C:\Users\kaych\IdeaProjects\TP_Hadoop\target\scala-2.12\classes\Jobs\myfirstobject.class
+[debug] Done packaging.
